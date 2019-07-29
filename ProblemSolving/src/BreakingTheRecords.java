@@ -15,11 +15,11 @@ public class BreakingTheRecords {
         int breakMinCount = 0;
         for (int i = 1; i < scores.length ; i++) {
             if(scores[i] > maxScore) {
-                breakMaxCount += 1;
+                breakMaxCount++;
                 maxScore = scores[i];
             }
             if(scores[i] < minScore){
-                breakMinCount += 1;
+                breakMinCount++;
                 minScore = scores[i];
             }
         }
