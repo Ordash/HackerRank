@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ae74e4-9578-4d5c-bda2-6687f160beca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BirthdayChocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivisibleSumPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BreakingTheRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BreakingTheRecords.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimpleArraySum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CompareTheTriplets.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,14 +47,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BirthdayChocolate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DivisibleSumPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -140,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/BreakingTheRecords.java" />
         <option value="$PROJECT_DIR$/src/BirthdayChocolate.java" />
+        <option value="$PROJECT_DIR$/src/DivisibleSumPairs.java" />
       </list>
     </option>
   </component>
@@ -204,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BirthdayChocolate">
+  <component name="RunManager" selected="Application.DivisibleSumPairs">
     <configuration name="BirthdayCakeCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BirthdayCakeCandles" />
       <module name="ProblemSolving" />
@@ -226,8 +226,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniMaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MiniMaxSum" />
+    <configuration name="DivisibleSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivisibleSumPairs" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -242,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivisibleSumPairs" />
         <item itemvalue="Application.BirthdayChocolate" />
         <item itemvalue="Application.BreakingTheRecords" />
         <item itemvalue="Application.BirthdayCakeCandles" />
         <item itemvalue="Application.Staircase" />
-        <item itemvalue="Application.MiniMaxSum" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +269,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19838601" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -309,12 +310,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BirthdayChocolate.java</url>
-          <line>10</line>
-          <properties class="BirthdayChocolate" method="birthday">
+          <url>file://$PROJECT_DIR$/src/DivisibleSumPairs.java</url>
+          <line>35</line>
+          <properties class="DivisibleSumPairs" method="divisibleSumPairs2">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -390,11 +391,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BirthdayChocolate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivisibleSumPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
