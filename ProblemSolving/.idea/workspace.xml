@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ae74e4-9578-4d5c-bda2-6687f160beca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CatsAndAMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CatsAndAMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CatsAndAMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeNames.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,14 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CatsAndAMouse">
-    <configuration name="BonAppetit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BonAppetit" />
-      <module name="ProblemSolving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UserInput">
     <configuration name="CatsAndAMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CatsAndAMouse" />
       <module name="ProblemSolving" />
@@ -98,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserInput" />
+      <module name="ProblemSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserInput" />
         <item itemvalue="Application.CatsAndAMouse" />
         <item itemvalue="Application.MergeNames" />
         <item itemvalue="Application.ElectronicsShop" />
         <item itemvalue="Application.DrawingBook" />
-        <item itemvalue="Application.BonAppetit" />
       </list>
     </recent_temporary>
   </component>
