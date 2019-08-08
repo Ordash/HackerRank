@@ -63,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UserInput">
+  <component name="RunManager" selected="Application.MergeNames">
     <configuration name="CatsAndAMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CatsAndAMouse" />
       <module name="ProblemSolving" />
@@ -101,9 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeNames" />
         <item itemvalue="Application.UserInput" />
         <item itemvalue="Application.CatsAndAMouse" />
-        <item itemvalue="Application.MergeNames" />
         <item itemvalue="Application.ElectronicsShop" />
         <item itemvalue="Application.DrawingBook" />
       </list>
